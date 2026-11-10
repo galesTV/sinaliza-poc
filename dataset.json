@@ -1,0 +1,908 @@
+{
+    "aberta": [
+        {
+            "distancia_polegar_indicador": 0.9597060680389404,
+            "distancia_pulso_indicador": 1.8676728010177612,
+            "angulo_indicador": 177.77638244628906,
+            "angulo_medio": 172.55380249023438,
+            "angulo_anelar": 173.86727905273438,
+            "angulo_minimo": 171.7060546875,
+            "angulo_polegar": 167.7065887451172
+        },
+        {
+            "distancia_polegar_indicador": 0.9910337924957275,
+            "distancia_pulso_indicador": 1.889169454574585,
+            "angulo_indicador": 177.5823974609375,
+            "angulo_medio": 173.99476623535156,
+            "angulo_anelar": 175.0288848876953,
+            "angulo_minimo": 172.036865234375,
+            "angulo_polegar": 167.59521484375
+        },
+        {
+            "distancia_polegar_indicador": 1.1087920665740967,
+            "distancia_pulso_indicador": 1.9179837703704834,
+            "angulo_indicador": 173.9915771484375,
+            "angulo_medio": 174.70034790039062,
+            "angulo_anelar": 176.90969848632812,
+            "angulo_minimo": 173.5487518310547,
+            "angulo_polegar": 169.7245635986328
+        },
+        {
+            "distancia_polegar_indicador": 1.0600812435150146,
+            "distancia_pulso_indicador": 1.8711626529693604,
+            "angulo_indicador": 176.7803955078125,
+            "angulo_medio": 173.43994140625,
+            "angulo_anelar": 175.17779541015625,
+            "angulo_minimo": 172.7333526611328,
+            "angulo_polegar": 170.14208984375
+        },
+        {
+            "distancia_polegar_indicador": 1.0424169301986694,
+            "distancia_pulso_indicador": 1.8637651205062866,
+            "angulo_indicador": 176.4244384765625,
+            "angulo_medio": 172.7095947265625,
+            "angulo_anelar": 175.17881774902344,
+            "angulo_minimo": 171.4756317138672,
+            "angulo_polegar": 170.00502014160156
+        },
+        {
+            "distancia_polegar_indicador": 1.0592905282974243,
+            "distancia_pulso_indicador": 1.8773481845855713,
+            "angulo_indicador": 176.37754821777344,
+            "angulo_medio": 172.4814453125,
+            "angulo_anelar": 175.23529052734375,
+            "angulo_minimo": 172.71820068359375,
+            "angulo_polegar": 170.31651306152344
+        },
+        {
+            "distancia_polegar_indicador": 1.0425795316696167,
+            "distancia_pulso_indicador": 1.8644529581069946,
+            "angulo_indicador": 177.19264221191406,
+            "angulo_medio": 172.53892517089844,
+            "angulo_anelar": 175.46363830566406,
+            "angulo_minimo": 171.8164520263672,
+            "angulo_polegar": 169.69140625
+        },
+        {
+            "distancia_polegar_indicador": 1.02718186378479,
+            "distancia_pulso_indicador": 1.8610259294509888,
+            "angulo_indicador": 176.5749053955078,
+            "angulo_medio": 172.66871643066406,
+            "angulo_anelar": 175.48988342285156,
+            "angulo_minimo": 172.0830841064453,
+            "angulo_polegar": 170.54579162597656
+        },
+        {
+            "distancia_polegar_indicador": 1.0802013874053955,
+            "distancia_pulso_indicador": 1.901973009109497,
+            "angulo_indicador": 174.99667358398438,
+            "angulo_medio": 173.15179443359375,
+            "angulo_anelar": 175.8179168701172,
+            "angulo_minimo": 173.067138671875,
+            "angulo_polegar": 170.1398468017578
+        },
+        {
+            "distancia_polegar_indicador": 1.0546404123306274,
+            "distancia_pulso_indicador": 1.8795210123062134,
+            "angulo_indicador": 175.29917907714844,
+            "angulo_medio": 173.06422424316406,
+            "angulo_anelar": 175.62850952148438,
+            "angulo_minimo": 172.07252502441406,
+            "angulo_polegar": 170.70535278320312
+        },
+        {
+            "distancia_polegar_indicador": 1.113698124885559,
+            "distancia_pulso_indicador": 1.8491219282150269,
+            "angulo_indicador": 169.0497283935547,
+            "angulo_medio": 173.60525512695312,
+            "angulo_anelar": 177.65924072265625,
+            "angulo_minimo": 173.4333953857422,
+            "angulo_polegar": 172.68666076660156
+        },
+        {
+            "distancia_polegar_indicador": 1.0794646739959717,
+            "distancia_pulso_indicador": 1.8820263147354126,
+            "angulo_indicador": 171.20416259765625,
+            "angulo_medio": 173.1973419189453,
+            "angulo_anelar": 177.13766479492188,
+            "angulo_minimo": 173.74578857421875,
+            "angulo_polegar": 171.66444396972656
+        },
+        {
+            "distancia_polegar_indicador": 1.0856657028198242,
+            "distancia_pulso_indicador": 1.9056874513626099,
+            "angulo_indicador": 173.53433227539062,
+            "angulo_medio": 174.45651245117188,
+            "angulo_anelar": 177.1922149658203,
+            "angulo_minimo": 174.0453338623047,
+            "angulo_polegar": 171.8623504638672
+        },
+        {
+            "distancia_polegar_indicador": 1.0601651668548584,
+            "distancia_pulso_indicador": 1.8612947463989258,
+            "angulo_indicador": 172.82513427734375,
+            "angulo_medio": 175.2210235595703,
+            "angulo_anelar": 176.8907012939453,
+            "angulo_minimo": 172.74871826171875,
+            "angulo_polegar": 171.41671752929688
+        },
+        {
+            "distancia_polegar_indicador": 1.059587836265564,
+            "distancia_pulso_indicador": 1.8343369960784912,
+            "angulo_indicador": 175.8757781982422,
+            "angulo_medio": 174.3829345703125,
+            "angulo_anelar": 176.00682067871094,
+            "angulo_minimo": 171.8575897216797,
+            "angulo_polegar": 171.51773071289062
+        },
+        {
+            "distancia_polegar_indicador": 1.039829969406128,
+            "distancia_pulso_indicador": 1.864960789680481,
+            "angulo_indicador": 173.721923828125,
+            "angulo_medio": 172.53614807128906,
+            "angulo_anelar": 176.3221893310547,
+            "angulo_minimo": 173.73516845703125,
+            "angulo_polegar": 172.3489532470703
+        },
+        {
+            "distancia_polegar_indicador": 1.055207371711731,
+            "distancia_pulso_indicador": 1.889046311378479,
+            "angulo_indicador": 173.10049438476562,
+            "angulo_medio": 170.3496551513672,
+            "angulo_anelar": 175.20620727539062,
+            "angulo_minimo": 176.04510498046875,
+            "angulo_polegar": 171.61575317382812
+        },
+        {
+            "distancia_polegar_indicador": 0.9985430240631104,
+            "distancia_pulso_indicador": 1.8383702039718628,
+            "angulo_indicador": 175.3709259033203,
+            "angulo_medio": 172.4672088623047,
+            "angulo_anelar": 176.02023315429688,
+            "angulo_minimo": 173.9422149658203,
+            "angulo_polegar": 172.40884399414062
+        },
+        {
+            "distancia_polegar_indicador": 1.0526403188705444,
+            "distancia_pulso_indicador": 1.8352408409118652,
+            "angulo_indicador": 177.59310913085938,
+            "angulo_medio": 175.0228271484375,
+            "angulo_anelar": 176.16981506347656,
+            "angulo_minimo": 172.68955993652344,
+            "angulo_polegar": 170.12442016601562
+        },
+        {
+            "distancia_polegar_indicador": 1.0420665740966797,
+            "distancia_pulso_indicador": 1.8314398527145386,
+            "angulo_indicador": 174.53836059570312,
+            "angulo_medio": 175.1496124267578,
+            "angulo_anelar": 175.1247100830078,
+            "angulo_minimo": 170.07891845703125,
+            "angulo_polegar": 170.9733123779297
+        },
+        {
+            "distancia_polegar_indicador": 1.0264347791671753,
+            "distancia_pulso_indicador": 1.8016501665115356,
+            "angulo_indicador": 171.49366760253906,
+            "angulo_medio": 174.28892517089844,
+            "angulo_anelar": 174.9879913330078,
+            "angulo_minimo": 169.9786834716797,
+            "angulo_polegar": 171.22377014160156
+        },
+        {
+            "distancia_polegar_indicador": 1.0156221389770508,
+            "distancia_pulso_indicador": 1.7739055156707764,
+            "angulo_indicador": 170.07275390625,
+            "angulo_medio": 173.36293029785156,
+            "angulo_anelar": 173.22483825683594,
+            "angulo_minimo": 171.10922241210938,
+            "angulo_polegar": 171.81600952148438
+        },
+        {
+            "distancia_polegar_indicador": 1.020799160003662,
+            "distancia_pulso_indicador": 1.7389792203903198,
+            "angulo_indicador": 171.4404296875,
+            "angulo_medio": 171.1844940185547,
+            "angulo_anelar": 173.09060668945312,
+            "angulo_minimo": 169.8218231201172,
+            "angulo_polegar": 173.50265502929688
+        },
+        {
+            "distancia_polegar_indicador": 1.0890611410140991,
+            "distancia_pulso_indicador": 1.8540489673614502,
+            "angulo_indicador": 177.66275024414062,
+            "angulo_medio": 174.10205078125,
+            "angulo_anelar": 175.17662048339844,
+            "angulo_minimo": 170.59487915039062,
+            "angulo_polegar": 164.46194458007812
+        },
+        {
+            "distancia_polegar_indicador": 1.1528812646865845,
+            "distancia_pulso_indicador": 1.9237635135650635,
+            "angulo_indicador": 177.14402770996094,
+            "angulo_medio": 174.42172241210938,
+            "angulo_anelar": 176.31138610839844,
+            "angulo_minimo": 174.6715850830078,
+            "angulo_polegar": 168.25930786132812
+        },
+        {
+            "distancia_polegar_indicador": 1.0816208124160767,
+            "distancia_pulso_indicador": 1.7797214984893799,
+            "angulo_indicador": 176.51675415039062,
+            "angulo_medio": 173.58517456054688,
+            "angulo_anelar": 175.26226806640625,
+            "angulo_minimo": 171.0994110107422,
+            "angulo_polegar": 167.75216674804688
+        },
+        {
+            "distancia_polegar_indicador": 1.1178194284439087,
+            "distancia_pulso_indicador": 1.8465749025344849,
+            "angulo_indicador": 176.71234130859375,
+            "angulo_medio": 174.90895080566406,
+            "angulo_anelar": 177.04229736328125,
+            "angulo_minimo": 171.683837890625,
+            "angulo_polegar": 168.26930236816406
+        },
+        {
+            "distancia_polegar_indicador": 1.087603211402893,
+            "distancia_pulso_indicador": 1.8018674850463867,
+            "angulo_indicador": 176.67221069335938,
+            "angulo_medio": 174.8246307373047,
+            "angulo_anelar": 176.2993621826172,
+            "angulo_minimo": 171.5424346923828,
+            "angulo_polegar": 168.4498748779297
+        },
+        {
+            "distancia_polegar_indicador": 1.1418616771697998,
+            "distancia_pulso_indicador": 1.8981825113296509,
+            "angulo_indicador": 175.65078735351562,
+            "angulo_medio": 172.93690490722656,
+            "angulo_anelar": 176.55638122558594,
+            "angulo_minimo": 174.18341064453125,
+            "angulo_polegar": 169.399658203125
+        },
+        {
+            "distancia_polegar_indicador": 1.108995795249939,
+            "distancia_pulso_indicador": 1.861680507659912,
+            "angulo_indicador": 175.44920349121094,
+            "angulo_medio": 175.99356079101562,
+            "angulo_anelar": 175.9922332763672,
+            "angulo_minimo": 171.28587341308594,
+            "angulo_polegar": 167.24656677246094
+        },
+        {
+            "distancia_polegar_indicador": 0.9918822050094604,
+            "distancia_pulso_indicador": 1.8593794107437134,
+            "angulo_indicador": 177.7574462890625,
+            "angulo_medio": 173.01815795898438,
+            "angulo_anelar": 175.47125244140625,
+            "angulo_minimo": 173.697265625,
+            "angulo_polegar": 171.81790161132812
+        },
+        {
+            "distancia_polegar_indicador": 0.9336023330688477,
+            "distancia_pulso_indicador": 1.8401923179626465,
+            "angulo_indicador": 172.73382568359375,
+            "angulo_medio": 172.60067749023438,
+            "angulo_anelar": 174.4972381591797,
+            "angulo_minimo": 173.36761474609375,
+            "angulo_polegar": 171.9551239013672
+        },
+        {
+            "distancia_polegar_indicador": 1.0081926584243774,
+            "distancia_pulso_indicador": 1.8254890441894531,
+            "angulo_indicador": 178.1859588623047,
+            "angulo_medio": 172.36285400390625,
+            "angulo_anelar": 175.7236328125,
+            "angulo_minimo": 173.19921875,
+            "angulo_polegar": 169.16915893554688
+        },
+        {
+            "distancia_polegar_indicador": 0.9325242638587952,
+            "distancia_pulso_indicador": 1.8346322774887085,
+            "angulo_indicador": 178.0498504638672,
+            "angulo_medio": 174.5937042236328,
+            "angulo_anelar": 175.05235290527344,
+            "angulo_minimo": 170.62435913085938,
+            "angulo_polegar": 168.4746856689453
+        }
+    ],
+    "punho": [
+        {
+            "distancia_polegar_indicador": 0.23465387523174286,
+            "distancia_pulso_indicador": 0.9648587703704834,
+            "angulo_indicador": 105.19982147216797,
+            "angulo_medio": 41.15729522705078,
+            "angulo_anelar": 30.367170333862305,
+            "angulo_minimo": 13.282458305358887,
+            "angulo_polegar": 24.637083053588867
+        },
+        {
+            "distancia_polegar_indicador": 0.23409970104694366,
+            "distancia_pulso_indicador": 0.95566326379776,
+            "angulo_indicador": 97.40789794921875,
+            "angulo_medio": 37.85219955444336,
+            "angulo_anelar": 28.050174713134766,
+            "angulo_minimo": 11.966602325439453,
+            "angulo_polegar": 25.04093360900879
+        },
+        {
+            "distancia_polegar_indicador": 0.2223462462425232,
+            "distancia_pulso_indicador": 0.9522654414176941,
+            "angulo_indicador": 97.24983978271484,
+            "angulo_medio": 38.35659408569336,
+            "angulo_anelar": 28.780609130859375,
+            "angulo_minimo": 15.142936706542969,
+            "angulo_polegar": 22.288684844970703
+        },
+        {
+            "distancia_polegar_indicador": 0.2106892615556717,
+            "distancia_pulso_indicador": 0.9694049954414368,
+            "angulo_indicador": 95.68734741210938,
+            "angulo_medio": 44.30179977416992,
+            "angulo_anelar": 28.42827796936035,
+            "angulo_minimo": 14.709914207458496,
+            "angulo_polegar": 27.31043815612793
+        },
+        {
+            "distancia_polegar_indicador": 0.15028277039527893,
+            "distancia_pulso_indicador": 0.9708684086799622,
+            "angulo_indicador": 96.65930938720703,
+            "angulo_medio": 45.32540512084961,
+            "angulo_anelar": 34.733280181884766,
+            "angulo_minimo": 19.14306640625,
+            "angulo_polegar": 27.84950828552246
+        },
+        {
+            "distancia_polegar_indicador": 0.22431088984012604,
+            "distancia_pulso_indicador": 0.9764960408210754,
+            "angulo_indicador": 99.72183990478516,
+            "angulo_medio": 41.203460693359375,
+            "angulo_anelar": 27.99199104309082,
+            "angulo_minimo": 12.352592468261719,
+            "angulo_polegar": 23.51064109802246
+        },
+        {
+            "distancia_polegar_indicador": 0.19039864838123322,
+            "distancia_pulso_indicador": 0.9818127155303955,
+            "angulo_indicador": 93.4801254272461,
+            "angulo_medio": 41.70077896118164,
+            "angulo_anelar": 31.340595245361328,
+            "angulo_minimo": 21.07948875427246,
+            "angulo_polegar": 26.981863021850586
+        },
+        {
+            "distancia_polegar_indicador": 0.25909143686294556,
+            "distancia_pulso_indicador": 0.9241509437561035,
+            "angulo_indicador": 102.65352630615234,
+            "angulo_medio": 47.52535629272461,
+            "angulo_anelar": 44.41895294189453,
+            "angulo_minimo": 39.6937370300293,
+            "angulo_polegar": 39.83629608154297
+        },
+        {
+            "distancia_polegar_indicador": 0.3063667416572571,
+            "distancia_pulso_indicador": 0.9812166690826416,
+            "angulo_indicador": 101.79064178466797,
+            "angulo_medio": 44.762577056884766,
+            "angulo_anelar": 39.763179779052734,
+            "angulo_minimo": 29.72560691833496,
+            "angulo_polegar": 34.24169921875
+        },
+        {
+            "distancia_polegar_indicador": 0.24276161193847656,
+            "distancia_pulso_indicador": 0.9576355814933777,
+            "angulo_indicador": 98.16297149658203,
+            "angulo_medio": 44.50172424316406,
+            "angulo_anelar": 42.38591766357422,
+            "angulo_minimo": 34.06068420410156,
+            "angulo_polegar": 33.59320068359375
+        },
+        {
+            "distancia_polegar_indicador": 0.15529780089855194,
+            "distancia_pulso_indicador": 0.9527170658111572,
+            "angulo_indicador": 101.08417510986328,
+            "angulo_medio": 49.96232986450195,
+            "angulo_anelar": 45.98339080810547,
+            "angulo_minimo": 45.93252944946289,
+            "angulo_polegar": 52.778053283691406
+        },
+        {
+            "distancia_polegar_indicador": 0.17739048600196838,
+            "distancia_pulso_indicador": 0.8534163236618042,
+            "angulo_indicador": 106.7735824584961,
+            "angulo_medio": 104.6712875366211,
+            "angulo_anelar": 117.90464782714844,
+            "angulo_minimo": 122.18274688720703,
+            "angulo_polegar": 142.54859924316406
+        },
+        {
+            "distancia_polegar_indicador": 0.0525096170604229,
+            "distancia_pulso_indicador": 0.9262427687644958,
+            "angulo_indicador": 92.53618621826172,
+            "angulo_medio": 72.08233642578125,
+            "angulo_anelar": 60.39720153808594,
+            "angulo_minimo": 60.75157928466797,
+            "angulo_polegar": 61.67936325073242
+        },
+        {
+            "distancia_polegar_indicador": 0.17345093190670013,
+            "distancia_pulso_indicador": 0.9020460844039917,
+            "angulo_indicador": 93.03538513183594,
+            "angulo_medio": 62.23094940185547,
+            "angulo_anelar": 56.50633239746094,
+            "angulo_minimo": 52.70491409301758,
+            "angulo_polegar": 50.39700698852539
+        },
+        {
+            "distancia_polegar_indicador": 0.11762678623199463,
+            "distancia_pulso_indicador": 0.8647223711013794,
+            "angulo_indicador": 72.85489654541016,
+            "angulo_medio": 68.73904418945312,
+            "angulo_anelar": 66.70502471923828,
+            "angulo_minimo": 63.130889892578125,
+            "angulo_polegar": 55.712921142578125
+        },
+        {
+            "distancia_polegar_indicador": 0.27789661288261414,
+            "distancia_pulso_indicador": 0.9965886473655701,
+            "angulo_indicador": 98.70287322998047,
+            "angulo_medio": 43.10890579223633,
+            "angulo_anelar": 36.799285888671875,
+            "angulo_minimo": 25.214872360229492,
+            "angulo_polegar": 28.139604568481445
+        },
+        {
+            "distancia_polegar_indicador": 0.31073349714279175,
+            "distancia_pulso_indicador": 1.0081582069396973,
+            "angulo_indicador": 108.91050720214844,
+            "angulo_medio": 39.02839279174805,
+            "angulo_anelar": 35.3990478515625,
+            "angulo_minimo": 30.378828048706055,
+            "angulo_polegar": 26.341516494750977
+        },
+        {
+            "distancia_polegar_indicador": 0.4407445192337036,
+            "distancia_pulso_indicador": 0.9824352264404297,
+            "angulo_indicador": 110.8457260131836,
+            "angulo_medio": 32.832889556884766,
+            "angulo_anelar": 21.72822380065918,
+            "angulo_minimo": 12.384209632873535,
+            "angulo_polegar": 16.709989547729492
+        },
+        {
+            "distancia_polegar_indicador": 0.28196293115615845,
+            "distancia_pulso_indicador": 0.9661955237388611,
+            "angulo_indicador": 91.96741485595703,
+            "angulo_medio": 41.58426284790039,
+            "angulo_anelar": 35.035823822021484,
+            "angulo_minimo": 23.110624313354492,
+            "angulo_polegar": 32.5643424987793
+        },
+        {
+            "distancia_polegar_indicador": 0.3712603449821472,
+            "distancia_pulso_indicador": 1.0201891660690308,
+            "angulo_indicador": 106.49089050292969,
+            "angulo_medio": 34.24036407470703,
+            "angulo_anelar": 24.075416564941406,
+            "angulo_minimo": 14.777788162231445,
+            "angulo_polegar": 13.387895584106445
+        },
+        {
+            "distancia_polegar_indicador": 0.1991748809814453,
+            "distancia_pulso_indicador": 1.1135714054107666,
+            "angulo_indicador": 96.7373046875,
+            "angulo_medio": 57.48782730102539,
+            "angulo_anelar": 56.71296310424805,
+            "angulo_minimo": 47.23134231567383,
+            "angulo_polegar": 54.41927719116211
+        },
+        {
+            "distancia_polegar_indicador": 0.20209302008152008,
+            "distancia_pulso_indicador": 1.0184472799301147,
+            "angulo_indicador": 96.75067138671875,
+            "angulo_medio": 38.48139572143555,
+            "angulo_anelar": 37.133121490478516,
+            "angulo_minimo": 36.55656051635742,
+            "angulo_polegar": 36.97843551635742
+        },
+        {
+            "distancia_polegar_indicador": 0.14046460390090942,
+            "distancia_pulso_indicador": 0.9227619171142578,
+            "angulo_indicador": 91.73947143554688,
+            "angulo_medio": 44.104122161865234,
+            "angulo_anelar": 51.34468078613281,
+            "angulo_minimo": 64.5450668334961,
+            "angulo_polegar": 77.23736572265625
+        },
+        {
+            "distancia_polegar_indicador": 0.3136385977268219,
+            "distancia_pulso_indicador": 1.0134212970733643,
+            "angulo_indicador": 108.5792465209961,
+            "angulo_medio": 40.78854751586914,
+            "angulo_anelar": 34.841224670410156,
+            "angulo_minimo": 24.48126220703125,
+            "angulo_polegar": 21.003681182861328
+        },
+        {
+            "distancia_polegar_indicador": 0.2472759187221527,
+            "distancia_pulso_indicador": 1.0190908908843994,
+            "angulo_indicador": 99.88990783691406,
+            "angulo_medio": 39.986202239990234,
+            "angulo_anelar": 32.8521842956543,
+            "angulo_minimo": 23.024246215820312,
+            "angulo_polegar": 22.98961067199707
+        },
+        {
+            "distancia_polegar_indicador": 0.1789955347776413,
+            "distancia_pulso_indicador": 1.0075185298919678,
+            "angulo_indicador": 95.73607635498047,
+            "angulo_medio": 42.54200744628906,
+            "angulo_anelar": 37.66104507446289,
+            "angulo_minimo": 29.746585845947266,
+            "angulo_polegar": 35.418670654296875
+        },
+        {
+            "distancia_polegar_indicador": 0.15418775379657745,
+            "distancia_pulso_indicador": 0.9613693952560425,
+            "angulo_indicador": 99.83025360107422,
+            "angulo_medio": 47.05985641479492,
+            "angulo_anelar": 38.389366149902344,
+            "angulo_minimo": 34.16371536254883,
+            "angulo_polegar": 43.091609954833984
+        },
+        {
+            "distancia_polegar_indicador": 0.15116408467292786,
+            "distancia_pulso_indicador": 0.9371073246002197,
+            "angulo_indicador": 98.81452941894531,
+            "angulo_medio": 53.174198150634766,
+            "angulo_anelar": 45.68497085571289,
+            "angulo_minimo": 39.03466033935547,
+            "angulo_polegar": 43.56845474243164
+        },
+        {
+            "distancia_polegar_indicador": 0.11647126823663712,
+            "distancia_pulso_indicador": 0.9696834683418274,
+            "angulo_indicador": 89.43029022216797,
+            "angulo_medio": 43.069976806640625,
+            "angulo_anelar": 40.37354278564453,
+            "angulo_minimo": 45.26239776611328,
+            "angulo_polegar": 48.66188430786133
+        },
+        {
+            "distancia_polegar_indicador": 0.22674749791622162,
+            "distancia_pulso_indicador": 1.03329598903656,
+            "angulo_indicador": 99.89200592041016,
+            "angulo_medio": 41.51484298706055,
+            "angulo_anelar": 36.18181228637695,
+            "angulo_minimo": 27.153181076049805,
+            "angulo_polegar": 34.493560791015625
+        },
+        {
+            "distancia_polegar_indicador": 0.13522560894489288,
+            "distancia_pulso_indicador": 1.0000547170639038,
+            "angulo_indicador": 93.42256927490234,
+            "angulo_medio": 44.413883209228516,
+            "angulo_anelar": 39.94367980957031,
+            "angulo_minimo": 37.144927978515625,
+            "angulo_polegar": 44.340576171875
+        },
+        {
+            "distancia_polegar_indicador": 0.22162511944770813,
+            "distancia_pulso_indicador": 1.0080676078796387,
+            "angulo_indicador": 96.26993560791016,
+            "angulo_medio": 39.12351989746094,
+            "angulo_anelar": 34.426841735839844,
+            "angulo_minimo": 30.884815216064453,
+            "angulo_polegar": 33.260345458984375
+        },
+        {
+            "distancia_polegar_indicador": 0.25024259090423584,
+            "distancia_pulso_indicador": 1.0354572534561157,
+            "angulo_indicador": 102.58219146728516,
+            "angulo_medio": 40.11929702758789,
+            "angulo_anelar": 33.08914566040039,
+            "angulo_minimo": 21.285608291625977,
+            "angulo_polegar": 29.869483947753906
+        }
+    ],
+    "pinca": [
+        {
+            "distancia_polegar_indicador": 0.21672171354293823,
+            "distancia_pulso_indicador": 1.3167074918746948,
+            "angulo_indicador": 163.7822265625,
+            "angulo_medio": 123.74979400634766,
+            "angulo_anelar": 160.41119384765625,
+            "angulo_minimo": 144.73497009277344,
+            "angulo_polegar": 122.93148803710938
+        },
+        {
+            "distancia_polegar_indicador": 0.2085963934659958,
+            "distancia_pulso_indicador": 1.3394893407821655,
+            "angulo_indicador": 162.99151611328125,
+            "angulo_medio": 122.6270523071289,
+            "angulo_anelar": 154.08001708984375,
+            "angulo_minimo": 138.45286560058594,
+            "angulo_polegar": 107.0411376953125
+        },
+        {
+            "distancia_polegar_indicador": 0.216846764087677,
+            "distancia_pulso_indicador": 1.3149710893630981,
+            "angulo_indicador": 153.45526123046875,
+            "angulo_medio": 111.93185424804688,
+            "angulo_anelar": 162.82565307617188,
+            "angulo_minimo": 153.57005310058594,
+            "angulo_polegar": 144.0499725341797
+        },
+        {
+            "distancia_polegar_indicador": 0.14922679960727692,
+            "distancia_pulso_indicador": 1.2708253860473633,
+            "angulo_indicador": 166.17727661132812,
+            "angulo_medio": 121.23526000976562,
+            "angulo_anelar": 120.03760528564453,
+            "angulo_minimo": 112.54010772705078,
+            "angulo_polegar": 127.15442657470703
+        },
+        {
+            "distancia_polegar_indicador": 0.08112172782421112,
+            "distancia_pulso_indicador": 1.303984522819519,
+            "angulo_indicador": 171.57888793945312,
+            "angulo_medio": 119.56190490722656,
+            "angulo_anelar": 82.83055114746094,
+            "angulo_minimo": 79.18180084228516,
+            "angulo_polegar": 79.9677505493164
+        },
+        {
+            "distancia_polegar_indicador": 0.15918883681297302,
+            "distancia_pulso_indicador": 1.2172150611877441,
+            "angulo_indicador": 168.4169921875,
+            "angulo_medio": 115.87700653076172,
+            "angulo_anelar": 164.30455017089844,
+            "angulo_minimo": 157.21078491210938,
+            "angulo_polegar": 143.6402587890625
+        },
+        {
+            "distancia_polegar_indicador": 0.12475902587175369,
+            "distancia_pulso_indicador": 1.227526307106018,
+            "angulo_indicador": 152.75436401367188,
+            "angulo_medio": 118.33648681640625,
+            "angulo_anelar": 159.63336181640625,
+            "angulo_minimo": 161.69052124023438,
+            "angulo_polegar": 143.1513214111328
+        },
+        {
+            "distancia_polegar_indicador": 0.1764279454946518,
+            "distancia_pulso_indicador": 1.2088543176651,
+            "angulo_indicador": 166.4800262451172,
+            "angulo_medio": 113.10177612304688,
+            "angulo_anelar": 166.0012969970703,
+            "angulo_minimo": 159.9116973876953,
+            "angulo_polegar": 144.39044189453125
+        },
+        {
+            "distancia_polegar_indicador": 0.1494774967432022,
+            "distancia_pulso_indicador": 1.2889419794082642,
+            "angulo_indicador": 165.6714630126953,
+            "angulo_medio": 121.453857421875,
+            "angulo_anelar": 162.0744171142578,
+            "angulo_minimo": 153.904541015625,
+            "angulo_polegar": 147.6773223876953
+        },
+        {
+            "distancia_polegar_indicador": 0.08186568319797516,
+            "distancia_pulso_indicador": 1.3339513540267944,
+            "angulo_indicador": 157.4584503173828,
+            "angulo_medio": 139.0371856689453,
+            "angulo_anelar": 152.90997314453125,
+            "angulo_minimo": 149.5686492919922,
+            "angulo_polegar": 144.59359741210938
+        },
+        {
+            "distancia_polegar_indicador": 0.09780003875494003,
+            "distancia_pulso_indicador": 1.2884572744369507,
+            "angulo_indicador": 161.1946563720703,
+            "angulo_medio": 138.6681365966797,
+            "angulo_anelar": 156.88673400878906,
+            "angulo_minimo": 146.27828979492188,
+            "angulo_polegar": 136.07763671875
+        },
+        {
+            "distancia_polegar_indicador": 0.1729886829853058,
+            "distancia_pulso_indicador": 1.284777045249939,
+            "angulo_indicador": 169.68101501464844,
+            "angulo_medio": 129.97776794433594,
+            "angulo_anelar": 161.25070190429688,
+            "angulo_minimo": 154.15194702148438,
+            "angulo_polegar": 144.5784912109375
+        },
+        {
+            "distancia_polegar_indicador": 0.14996430277824402,
+            "distancia_pulso_indicador": 1.307517647743225,
+            "angulo_indicador": 171.9966583251953,
+            "angulo_medio": 122.75257873535156,
+            "angulo_anelar": 166.42916870117188,
+            "angulo_minimo": 158.693603515625,
+            "angulo_polegar": 136.03646850585938
+        },
+        {
+            "distancia_polegar_indicador": 0.17542506754398346,
+            "distancia_pulso_indicador": 1.328296422958374,
+            "angulo_indicador": 173.77989196777344,
+            "angulo_medio": 129.57395935058594,
+            "angulo_anelar": 172.08010864257812,
+            "angulo_minimo": 162.40260314941406,
+            "angulo_polegar": 143.5637969970703
+        },
+        {
+            "distancia_polegar_indicador": 0.16384491324424744,
+            "distancia_pulso_indicador": 1.4131406545639038,
+            "angulo_indicador": 174.3361053466797,
+            "angulo_medio": 144.75279235839844,
+            "angulo_anelar": 173.7900848388672,
+            "angulo_minimo": 164.87709045410156,
+            "angulo_polegar": 141.97750854492188
+        },
+        {
+            "distancia_polegar_indicador": 0.1335495114326477,
+            "distancia_pulso_indicador": 1.2567087411880493,
+            "angulo_indicador": 149.48553466796875,
+            "angulo_medio": 120.8344955444336,
+            "angulo_anelar": 168.39175415039062,
+            "angulo_minimo": 166.97352600097656,
+            "angulo_polegar": 152.82273864746094
+        },
+        {
+            "distancia_polegar_indicador": 0.19208776950836182,
+            "distancia_pulso_indicador": 1.291520357131958,
+            "angulo_indicador": 152.05482482910156,
+            "angulo_medio": 117.56018829345703,
+            "angulo_anelar": 162.56573486328125,
+            "angulo_minimo": 156.79627990722656,
+            "angulo_polegar": 148.5654296875
+        },
+        {
+            "distancia_polegar_indicador": 0.13518735766410828,
+            "distancia_pulso_indicador": 1.2096856832504272,
+            "angulo_indicador": 168.13694763183594,
+            "angulo_medio": 117.5642318725586,
+            "angulo_anelar": 164.4672393798828,
+            "angulo_minimo": 157.17156982421875,
+            "angulo_polegar": 143.03668212890625
+        },
+        {
+            "distancia_polegar_indicador": 0.26127713918685913,
+            "distancia_pulso_indicador": 1.272339105606079,
+            "angulo_indicador": 154.9948272705078,
+            "angulo_medio": 130.49072265625,
+            "angulo_anelar": 153.7489471435547,
+            "angulo_minimo": 142.98065185546875,
+            "angulo_polegar": 139.38145446777344
+        },
+        {
+            "distancia_polegar_indicador": 0.13643242418766022,
+            "distancia_pulso_indicador": 1.1867293119430542,
+            "angulo_indicador": 149.9392852783203,
+            "angulo_medio": 122.9634780883789,
+            "angulo_anelar": 157.05894470214844,
+            "angulo_minimo": 153.72308349609375,
+            "angulo_polegar": 143.1940460205078
+        },
+        {
+            "distancia_polegar_indicador": 0.10294444859027863,
+            "distancia_pulso_indicador": 1.257075309753418,
+            "angulo_indicador": 153.55010986328125,
+            "angulo_medio": 125.0023193359375,
+            "angulo_anelar": 163.375732421875,
+            "angulo_minimo": 153.95162963867188,
+            "angulo_polegar": 141.72128295898438
+        },
+        {
+            "distancia_polegar_indicador": 0.1138523668050766,
+            "distancia_pulso_indicador": 1.3543169498443604,
+            "angulo_indicador": 160.30809020996094,
+            "angulo_medio": 140.2634735107422,
+            "angulo_anelar": 158.68222045898438,
+            "angulo_minimo": 155.08697509765625,
+            "angulo_polegar": 141.62322998046875
+        },
+        {
+            "distancia_polegar_indicador": 0.2175966054201126,
+            "distancia_pulso_indicador": 1.2641206979751587,
+            "angulo_indicador": 165.1017608642578,
+            "angulo_medio": 122.42267608642578,
+            "angulo_anelar": 162.03094482421875,
+            "angulo_minimo": 153.99935913085938,
+            "angulo_polegar": 141.08062744140625
+        },
+        {
+            "distancia_polegar_indicador": 0.25692006945610046,
+            "distancia_pulso_indicador": 1.3937523365020752,
+            "angulo_indicador": 163.8796844482422,
+            "angulo_medio": 119.53772735595703,
+            "angulo_anelar": 164.8561248779297,
+            "angulo_minimo": 158.37939453125,
+            "angulo_polegar": 144.06549072265625
+        },
+        {
+            "distancia_polegar_indicador": 0.1844310462474823,
+            "distancia_pulso_indicador": 1.3192989826202393,
+            "angulo_indicador": 162.64556884765625,
+            "angulo_medio": 123.08985137939453,
+            "angulo_anelar": 164.85804748535156,
+            "angulo_minimo": 156.10888671875,
+            "angulo_polegar": 141.24200439453125
+        },
+        {
+            "distancia_polegar_indicador": 0.10083305835723877,
+            "distancia_pulso_indicador": 1.2485181093215942,
+            "angulo_indicador": 162.5257568359375,
+            "angulo_medio": 123.37467193603516,
+            "angulo_anelar": 164.68601989746094,
+            "angulo_minimo": 155.90213012695312,
+            "angulo_polegar": 140.59805297851562
+        },
+        {
+            "distancia_polegar_indicador": 0.18218986690044403,
+            "distancia_pulso_indicador": 1.2485902309417725,
+            "angulo_indicador": 164.05331420898438,
+            "angulo_medio": 125.94406127929688,
+            "angulo_anelar": 163.4049835205078,
+            "angulo_minimo": 154.52780151367188,
+            "angulo_polegar": 139.3935089111328
+        },
+        {
+            "distancia_polegar_indicador": 0.16605986654758453,
+            "distancia_pulso_indicador": 1.2504886388778687,
+            "angulo_indicador": 165.19932556152344,
+            "angulo_medio": 125.44944763183594,
+            "angulo_anelar": 163.76190185546875,
+            "angulo_minimo": 154.53326416015625,
+            "angulo_polegar": 138.5889434814453
+        },
+        {
+            "distancia_polegar_indicador": 0.1477966457605362,
+            "distancia_pulso_indicador": 1.244881510734558,
+            "angulo_indicador": 177.74049377441406,
+            "angulo_medio": 123.10820770263672,
+            "angulo_anelar": 169.65541076660156,
+            "angulo_minimo": 156.92263793945312,
+            "angulo_polegar": 136.7137908935547
+        },
+        {
+            "distancia_polegar_indicador": 0.19399181008338928,
+            "distancia_pulso_indicador": 1.2282652854919434,
+            "angulo_indicador": 160.1969757080078,
+            "angulo_medio": 123.86376953125,
+            "angulo_anelar": 162.28582763671875,
+            "angulo_minimo": 154.37245178222656,
+            "angulo_polegar": 133.85922241210938
+        },
+        {
+            "distancia_polegar_indicador": 0.15904082357883453,
+            "distancia_pulso_indicador": 1.2593793869018555,
+            "angulo_indicador": 168.09130859375,
+            "angulo_medio": 117.06561279296875,
+            "angulo_anelar": 166.9252166748047,
+            "angulo_minimo": 158.10818481445312,
+            "angulo_polegar": 145.1521759033203
+        },
+        {
+            "distancia_polegar_indicador": 0.16016511619091034,
+            "distancia_pulso_indicador": 1.3613626956939697,
+            "angulo_indicador": 163.1637420654297,
+            "angulo_medio": 137.98678588867188,
+            "angulo_anelar": 165.85003662109375,
+            "angulo_minimo": 154.1797332763672,
+            "angulo_polegar": 132.71234130859375
+        },
+        {
+            "distancia_polegar_indicador": 0.205309197306633,
+            "distancia_pulso_indicador": 1.312034010887146,
+            "angulo_indicador": 155.22328186035156,
+            "angulo_medio": 119.30338287353516,
+            "angulo_anelar": 168.8059539794922,
+            "angulo_minimo": 163.13198852539062,
+            "angulo_polegar": 148.56314086914062
+        }
+    ]
+}
